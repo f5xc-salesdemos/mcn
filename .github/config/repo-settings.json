@@ -1,0 +1,7 @@
+{
+  "repository": {
+    "description": "F5 XC multi-cloud networking",
+    "homepage": "https://f5xc-salesdemos.github.io/mcn/"
+  },
+  "topics": ["f5xc"]
+}
